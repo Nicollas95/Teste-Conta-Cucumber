@@ -13,17 +13,15 @@
 O projeto que estamos testando com o Cucumber trata-se de um software para saque da conta bancária, assim irá garantir que o cliente que tenha um bom vínculo com o banco possa efetuar o saque mesmo estando com a conta bancária negativa sem nenhum problema. E caso o cliente não tenha vínculo bom com mesmo, terá o saque recusado para caso esteja com saldo negativo.
 </span>
 
-//foto do projeto rodando
-<img src="" style="width:40%;margin-left:30%;margin-right:30%"></img>
  
-<h2>Como usar?</h2>
+<h2>Pré-requisitos</h2>
 <div style="border-bottom: 1px solid grey"></div>
-<span></span>
+<span>É necessário ter conhecimento básico sobre testes e alguma experiência prática de algumas ferramentas em relação testes. Conhecimento de comando na linguagem Java e conhecimento em JUnit por exemplo.</span>
 
 <h3>Contato:</h3>
 <div style="border-bottom: 1px solid grey"></div>
 <span>E-mail: nicolash.oliveira@outlook.com</span><br>
-<span>Celular: (15) 99858-5022</span>
+<span>Celular: (15) 99858-5022 </span>
 
 </body>
 <footer>
