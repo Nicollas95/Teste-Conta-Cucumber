@@ -7,10 +7,10 @@
 <h>Oque é o cucumber?</h>
 <p>O dia-a-dia do Quality Asssurance exige a prática de testes para garantir que as aplicações funcionem corretamente. Um framework muito eficiente para testar um software dentro de equipes é o Cucumber. Cucumber é um framework de testes que suporta o Behavior Driven Development (BDD). Possui varias funcionalidades, inclusive a escrita em linguagem natural, facilitando a comunicação entre técnicos e não técnicos.</p>
 
-<h2> Funcionalidade </h2>
+<h2> Projeto </h2>
 <div style="border-bottom: 1px solid grey"></div>
 <span>
-O projeto que estamos testando com o Cucumber trata-se de um software para saque da conta bancária, assim irá garantir que o cliente que tenha um bom vínculo com o banco possa efetuar o saque mesmo estando com a conta bancária negativa sem nenhum problema. E caso o cliente não tenha vínculo bom com mesmo, terá o saque recusado para caso esteja com saldo negativo.
+O projeto que estamos trabalhando com o Cucumber trata-se de um software para saque da conta bancária. Assim irá garantir que o cliente que tem um bom vínculo com o banco possa efetuar o saque mesmo estando com a conta bancária negativa. E caso o cliente não tenha um vínculo bom com o banco e esteja com a conta negativa, terá o saque recusado por saldo insuficiente.
 </span>
 
  
