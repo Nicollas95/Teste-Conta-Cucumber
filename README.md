@@ -1,22 +1,38 @@
-<h1>Implementando Junit com Cucumber</h1>
+<h1>Implementando Junit no teste</h1>
+<div align="center">
 <img src="https://junit.org/junit4/images/junit5-banner.png" style="width:40%;margin-left:30%;margin-right:30%"></img>
+</div>
 
 <body>
-<h2> Descrição </h2>
-<div style="border-bottom: 1px solid grey"></div>
-<h>Oque é o cucumber?</h>
-<p>O dia-a-dia do Quality Asssurance exige a prática de testes para garantir que as aplicações funcionem corretamente. Um framework muito eficiente para testar um software dentro de equipes é o Cucumber. Cucumber é um framework de testes que suporta o Behavior Driven Development (BDD). Possui varias funcionalidades, inclusive a escrita em linguagem natural, facilitando a comunicação entre técnicos e não técnicos.</p>
+<h2>Sobre JUnit</h2>
+<p>JUnit é um framework utilizado para facilitar o desenvolvimento de códigos em Java, afim de verificar se os resultados esperados estão corretos. E com a intenção de buscar uma alta melhoria nos softwares, os desenvolvedores realizam uma bateria de testes nos seus códigos.</p>
 
-<h2> Projeto </h2>
-<div style="border-bottom: 1px solid grey"></div>
-<span>
-O projeto trata-se de um software de caixa eletronico. Assim irá garantir que o cliente que tem um bom vínculo com o banco possa efetuar o saque mesmo estando com a conta bancária negativa. E caso o cliente não tenha um vínculo bom com o banco e esteja com a conta negativa, terá o saque recusado por saldo insuficiente.
-</span>
+<h2>Telas capturadas do projeto com Cucumber</h2>
 
- 
-<h2>Oque foi alterado?</h2>
-<div style="border-bottom: 1px solid grey"></div>
-<span>Nessa nova versão do projeto foi implementado JUnit para os testes.</span>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/70442054/202820561-2fa92783-8213-403a-b88d-c54ce1ca602e.png" width="900px">
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/70442054/202821608-cc1e321a-8767-47cc-9cea-79eef4ec58d6.png" width="900px">
+</div>
+
+<h2>Telas capturadas do projeto com JUnit</h2>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/70442054/202822253-9abb2808-038b-4df6-bd1a-22b5c51b4703.png" width="900px">
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/70442054/202822842-04251b18-95e0-4588-969f-71ef64b17725.png" width="900px">
+</div>
+<br>
+
+<h2> Especificação <strong>DryRun</strong> True || False</h2>
+<p>Quando o <strong>DryRun</strong> da classe Runner JUnit estiver como <strong>True</strong>, ele acaba passando por todos os cenários, mesmo quando ocorre algum erro.
+
+E quando <strong>DryRun</strong> estiver como <strong>false</strong>, ele passa os cenários e quando ocorrer algum erro ele retorna no console a linha.</p>
+
 
 <h3>Contato:</h3>
 <div style="border-bottom: 1px solid grey"></div>
@@ -25,7 +41,7 @@ O projeto trata-se de um software de caixa eletronico. Assim irá garantir que o
 
 </body>
 <footer>
- <h3> Última Atualização: 4/11/2022 </h3>
+<h3> Última Atualização: 18/11/2022 </h3>
 <div style="border-bottom: 1px solid grey"></div>
 </footer>
  
